@@ -1,5 +1,5 @@
 -  Hi, I’m @OyamoCodes
--  I’m a coding studing. I know C, Java, html (css + javascript), some basics of Python and I'm currently learning C#.
+-  I’m a code student. I know C, Java, html (css + javascript), some basics of Python and I'm currently learning C#.
 -  Mainly focused on game development
 -  To contact me, you can dm me on instagram @oyamo.exe or discord oyamo
 -  Pronouns She/Her
