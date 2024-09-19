@@ -1,7 +1,7 @@
 -  Hi, I’m @OyamoCodes
--  I’m a coding studing. I know C and I'm currently learning Java.
--  I’m trying to learn how to work with game engines and hopefully do some little games
--  To contact me, you can dm me on instagram @oyamoch or discord randomsimp
+-  I’m a coding studing. I know C, Java, html (css + javascript), some basics of Python and I'm currently learning C#.
+-  Mainly focused on game development
+-  To contact me, you can dm me on instagram @oyamo.exe or discord oyamo
 -  Pronouns She/Her
 
 <!---
