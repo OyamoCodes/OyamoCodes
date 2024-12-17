@@ -1,4 +1,4 @@
--  Hi, I’m @OyamoCodes
+-  Hi, I’m @OyamoCodes !!
 -  I’m a code student. I know C, Java, html (css + javascript), some basics of Python and I'm currently learning C#.
 -  Mainly focused on game development
 -  To contact me, you can dm me on instagram @oyamo.exe or discord oyamo
